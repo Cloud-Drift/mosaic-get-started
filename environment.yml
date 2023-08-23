@@ -1,0 +1,11 @@
+name: mosaic
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - xarray
+  - matplotlib
+  - cartopy
+  - clouddrift
+  - netcdf4
