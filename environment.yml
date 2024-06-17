@@ -3,9 +3,9 @@ channels:
   - conda-forge
 dependencies:
   - python=3.10
+  - clouddrift=0.35
   - numpy
   - xarray
   - matplotlib
   - cartopy
-  - clouddrift=0.35
   - netcdf4
